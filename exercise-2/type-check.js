@@ -4,5 +4,5 @@
 
 function type_check_v1(val1){
 
-      return (typeof val1 === type);
+    return (typeof val1 === type);
 }
